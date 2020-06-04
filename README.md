@@ -1,3 +1,3 @@
 # HTTPCommons
-Composent
+Component
 
